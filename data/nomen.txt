@@ -1,0 +1,5 @@
+# Sample naming
+
+# data file naming
+
+MMDD_<blurb>.<ext>:	Example: '0829_abs.xls' is a excel file containing data from ABS test collected on 05 Apr.
